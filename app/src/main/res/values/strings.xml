@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework2111</string>
+    <string name="student_name_listview_item">Tên SV:</string>
+    <string name="student_id_listview_item">Mã số SV:</string>
+    <string name="main_app_name">Student Manager</string>
+    <string name="edit_student_name">Nhap ho ten</string>
+    <string name="edit_student_id">Nhap mssv</string>
+    <string name="edit_student_button_cancel">Cancel</string>
+    <string name="edit_student_button_OK">OK</string>
+    <string name="toolbar_title">Student Manager</string>
+</resources>
